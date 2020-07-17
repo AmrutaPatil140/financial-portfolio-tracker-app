@@ -1,0 +1,7 @@
+{
+           "companies" :[ {"name":"Microsoft Corporation","symbol":"MSFT"},
+            {"name":"IBM Corporation.","symbol":"IBM"},
+            {"name":"Home Depoite","symbol":"HD"},
+            {"name":"Intel Corporation","symbol":"INTC"},
+            {"name":"Intel Corporation","symbol":"INTC"}]
+} 
